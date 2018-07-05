@@ -90,7 +90,7 @@ console.log("The letter is", letter);
 
 // Put your answer below -------------------------
 
-C. Z will log as soon as it can, Y has a timeout of 1 second,
+// C. Z will log as soon as it can, Y has a timeout of 1 second,
 
 // -----------------------------------------------
 
@@ -187,6 +187,11 @@ var callTenTimes = function(callback) {
 };
 
 // Put your answer below -------------------------
+
+var callNTimes = function(n, callback) {
+  var range = _.range(n);
+  _.each(range, callback);
+};
 
 
 // -----------------------------------------------
