@@ -252,6 +252,10 @@ var twoPlusTwo = addNumbers(2,2);
 
 // Put your answer below -------------------------
 
+var twoPlusTwo = addNumbers(2,2)
+var addNumbers = function(numberA, numberB) {
+  console.log(numberA + NumberB);
+};
 
 // -----------------------------------------------
 
