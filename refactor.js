@@ -55,7 +55,6 @@ function sayHi() {
 setTimeout(sayHi, 2000);
 
 // Put your answer below -------------------------
-
 // (function() {
 //   setTimeout(function() {
 //     alert("Hellow, World!");
@@ -91,7 +90,7 @@ console.log("The letter is", letter);
 
 // Put your answer below -------------------------
 
-
+C. Z will log as soon as it can, Y has a timeout of 1 second,
 
 // -----------------------------------------------
 
