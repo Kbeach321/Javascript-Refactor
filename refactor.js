@@ -282,6 +282,12 @@ var accelerate = function(amount) {
 
 // Put your answer below -------------------------
 
+// NaN is given because you cant add "amount" without it being defined to a number
+var speed = 0;
+var amount = 1;
+var accelerate = function(amount) {
+  speed += amount;
+};
 
 // -----------------------------------------------
 
