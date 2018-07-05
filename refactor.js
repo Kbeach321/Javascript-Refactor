@@ -33,6 +33,9 @@ function doSomethingCool() {
 
 // Put your answer below -------------------------
 
+(function() {
+  console.log("something Cool!");
+})();
 
 // -----------------------------------------------
 
@@ -82,6 +85,7 @@ letter = "z";
 console.log("The letter is", letter);
 
 // Put your answer below -------------------------
+
 
 
 // -----------------------------------------------
