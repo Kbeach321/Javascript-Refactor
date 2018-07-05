@@ -56,6 +56,11 @@ setTimeout(sayHi, 2000);
 
 // Put your answer below -------------------------
 
+// (function() {
+//   setTimeout(function() {
+//     alert("Hellow, World!");
+//   },sayHi, 3000);
+// }
 
 // -----------------------------------------------
 
